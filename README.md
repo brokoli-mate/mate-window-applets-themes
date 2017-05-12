@@ -4,7 +4,9 @@
 en: some nice-looking themes for https://github.com/IKRadulov/mate-window-applets
 
 
-   How-to use: 1) download archive end extract it 
+     How-to use: 
+               
+               1) download archive end extract it 
    
                2) place themes to /usr/share/icons/mate-window-applet
                
