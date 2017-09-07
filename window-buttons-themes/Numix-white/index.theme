@@ -1,6 +1,6 @@
 [Icon Theme]
 Name = Numix white
-Comment = Numix white theme for WindowButtons
+Comment = Numix white .svg theme for WindowButtons
 
 # Directory list
 Directories=close,minimize,maximize
