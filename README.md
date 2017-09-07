@@ -14,4 +14,4 @@ en: some nice-looking themes for https://github.com/IKRadulov/mate-window-applet
                   theme in 'Custom value' field and press 'Enter'
                   
                4) (optional) go to /org/mate/window-applets/window-buttons/spacing and change the 'Custom value' field to a 
-                  spacing nad padding you want.
+                  spacing and padding you want.
