@@ -1,6 +1,6 @@
 [Icon Theme]
 Name = Menta
-Comment = Menta theme for Window Buttons
+Comment = Menta .svg theme for Window Buttons
 
 # Directory list
 Directories=close,minimize,maximize
